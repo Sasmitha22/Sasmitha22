@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Image processing<br>👯 I’m looking to collaborate on projects involving Python<br>🌱 I’m currently learning AI and ML<br>💬 Ask me about Web Development<br>
+🔭 I’m currently working on Image processing<br>👯 I’m looking to collaborate on projects addressing Social cause<br>🌱 I’m currently learning AI and ML<br>💬 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
